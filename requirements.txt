@@ -1,0 +1,13 @@
+ipython
+jupyter
+sklearn
+scipy
+matplotlib
+ggplot
+pandas
+networkx
+nltk
+tqdm
+cython
+gensim
+suma
